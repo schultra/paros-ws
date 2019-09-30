@@ -1,0 +1,11 @@
+{
+  "name": "parosdb",
+  "connector": "postgresql",
+  "host": "ec2-79-125-2-142.eu-west-1.compute.amazonaws.com",
+  "port": 5432,
+  "user": "fwxtrluvmvpglg",
+  "password": "cf4d5c236ffcd0c725d4ba9fb5f557b2b21dae0785f280a116e991800baf8ae4",
+  "database": "dc4r3ojbffv2c5",
+  "url": "postgres://fwxtrluvmvpglg:cf4d5c236ffcd0c725d4ba9fb5f557b2b21dae0785f280a116e991800baf8ae4@ec2-79-125-2-142.eu-west-1.compute.amazonaws.com:5432/dc4r3ojbffv2c5",
+  "ssl": "false"
+}
